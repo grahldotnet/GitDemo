@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoTDD
 {
-    class Calculadora
+    class PowerTabajaraCalculator
     {
 
     }
